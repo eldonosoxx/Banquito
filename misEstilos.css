@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    background-image: url(imagenes/fondo.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 50%;
+    margin: 0 auto;
+}
+.logo{
+    height: 200px;
+    width: 900px;
+    margin: auto;
+    
+}
+.logo img {
+    height: 100%;
+    width: 100%; 
+    
+}
+
+.saldo {
+    font-size: large;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.saldo p {    
+    margin: 1rem;
+}
+
+.saldo img {
+    height: 45px;
+    border: 2px solid white;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+
+.fila {
+    display: inline-block;
+}
+
+.tarjeta{
+    width: 190px;
+    height: 110px;
+}

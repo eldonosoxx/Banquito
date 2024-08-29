@@ -1,0 +1,9 @@
+{
+    "banco": "First Nautical Bank",
+    "sucursal": "Fondo De Bikini",    
+    "titular": "Sponge Bob",
+    "nro_cuenta": "27077",    
+    "saldo": [ { "moneda": "Conchas", "monto": 725 }, { "moneda": "Cacahuates", "monto": 195.67} ],
+    "cbu": "270770772077",
+    "abierto": "29/08/2024"
+}
